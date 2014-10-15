@@ -1,0 +1,42 @@
+50
+Deliver the packages to Claus
+Go see Claus, under the big tree.
+!_@~~@_!
+
+!_@~~@_!
+
+!_@~~@_!
+
+
+0
+
+true
+2
+[
+Deliver  package to Claus.
+!_@~~@_!
+Get back to Ryan! He can help you now.
+!_@~~@_!
+
+1
+false
+DeliverToClaus
+
+
+0
+
+]
+[
+Get back to Ryan
+!_@~~@_!
+Go back and talk with Ryan
+!_@~~@_!
+
+1
+false
+GetBackToRyan
+
+
+0
+DeliverToClaus
+]
